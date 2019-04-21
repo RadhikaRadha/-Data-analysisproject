@@ -7,7 +7,7 @@ __Breast cancer__ is cancer that develops from breast tissue.__Signs__ of breast
 __Risk factors__ for developing breast cancer include being female, obesity, lack of physical exercise, drinking alcohol, hormone replacement therapy during menopause, ionizing radiation, early age at first menstruation, having children late or not at all, older age, prior history of breast cancer, and family history.
 
 The __aim__ of this analysis is to find out 
-- Survival rate after diagnosis
+- which age group is most affected to breast cancer
 - Factors responsible for maximum or minimum survival rate
 
 ## Data
@@ -26,5 +26,14 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
     - 2 = the patient died within 5 year
     
 ## Project Analysis
-![image.png]
+![image.png](https://github.com/RadhikaRadha/-MyProjects/blob/master/images/download1.png)
+
+From the analysis we conclude that 
+- The major age-groupp affected to breast cancer is 45-55 years.
+- The survival rate is dependent on the number of positive axillary nodes detedcted in the body.
+
+The lesser are the positive axillary nodes detected  in the body, the higher is the survival rate and the higher are the positive axillary nodes detected  in the body, the lesser is the survival rate.
+
+
+
     

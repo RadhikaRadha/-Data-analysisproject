@@ -1,2 +1,2 @@
 # Analysis on Breast Cancer Survival
-![image.png](images/breast cancer.png)
+![image.png](breast cancer.png)

@@ -34,6 +34,7 @@ From the analysis we conclude that
 
 The lesser are the positive axillary nodes detected  in the body, the higher is the survival rate and the higher are the positive axillary nodes detected  in the body, the lesser is the survival rate.
 
+![image.png](https://github.com/RadhikaRadha/-MyProjects/blob/master/images/Breast-Cancer.png)
 
 
     
